@@ -1,0 +1,18 @@
+{
+  "dashboard": "Tablero",
+  "reports": "Informes",
+  "settings": "Configuración",
+  "theme": "Tema",
+  "currency": "Moneda",
+  "language": "Idioma",
+  "clear_data": "Borrar todos los datos",
+  "close": "Cerrar",
+  "total_spend": "Gasto total",
+  "top_category": "Categoría principal",
+  "by_category": "Por categoría",
+  "by_day": "Por día (promedio 7d)",
+  "export_csv": "Exportar CSV",
+  "kpi_today": "Has gastado un {{percent}}% {{trend}} hoy que tu promedio.",
+  "more": "más",
+  "less": "menos"
+}

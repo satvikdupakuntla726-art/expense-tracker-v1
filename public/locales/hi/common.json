@@ -1,0 +1,18 @@
+{
+  "dashboard": "डैशबोर्ड",
+  "reports": "रिपोर्ट्स",
+  "settings": "सेटिंग्स",
+  "theme": "थीम",
+  "currency": "मुद्रा",
+  "language": "भाषा",
+  "clear_data": "सभी डेटा साफ़ करें",
+  "close": "बंद करें",
+  "total_spend": "कुल खर्च",
+  "top_category": "शीर्ष श्रेणी",
+  "by_category": "श्रेणी अनुसार",
+  "by_day": "दिन अनुसार (7-दिन औसत)",
+  "export_csv": "CSV निर्यात करें",
+  "kpi_today": "आज आपने औसत से {{percent}}% {{trend}} खर्च किया है।",
+  "more": "अधिक",
+  "less": "कम"
+}

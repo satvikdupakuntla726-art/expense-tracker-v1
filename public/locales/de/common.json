@@ -1,0 +1,18 @@
+{
+  "dashboard": "Dashboard",
+  "reports": "Berichte",
+  "settings": "Einstellungen",
+  "theme": "Thema",
+  "currency": "Währung",
+  "language": "Sprache",
+  "clear_data": "Alle Daten löschen",
+  "close": "Schließen",
+  "total_spend": "Gesamtausgaben",
+  "top_category": "Top-Kategorie",
+  "by_category": "Nach Kategorie",
+  "by_day": "Nach Tag (7-Tage-Durchschnitt)",
+  "export_csv": "CSV exportieren",
+  "kpi_today": "Sie haben heute {{percent}}% {{trend}} als Ihr Durchschnitt ausgegeben.",
+  "more": "mehr",
+  "less": "weniger"
+}

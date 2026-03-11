@@ -1,0 +1,18 @@
+{
+  "dashboard": "Dashboard",
+  "reports": "Reports",
+  "settings": "Settings",
+  "theme": "Theme",
+  "currency": "Currency",
+  "language": "Language",
+  "clear_data": "Clear All Data",
+  "close": "Close",
+  "total_spend": "Total Spend",
+  "top_category": "Top Category",
+  "by_category": "By Category",
+  "by_day": "By Day (7d Avg)",
+  "export_csv": "Export CSV",
+  "kpi_today": "You've spent {{percent}}% {{trend}} today than your average.",
+  "more": "more",
+  "less": "less"
+}

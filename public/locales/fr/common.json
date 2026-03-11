@@ -1,0 +1,18 @@
+{
+  "dashboard": "Tableau de bord",
+  "reports": "Rapports",
+  "settings": "Paramètres",
+  "theme": "Thème",
+  "currency": "Devise",
+  "language": "Langue",
+  "clear_data": "Effacer toutes les données",
+  "close": "Fermer",
+  "total_spend": "Dépenses totales",
+  "top_category": "Catégorie principale",
+  "by_category": "Par catégorie",
+  "by_day": "Par jour (moyenne 7j)",
+  "export_csv": "Exporter CSV",
+  "kpi_today": "Vous avez dépensé {{percent}}% {{trend}} aujourd'hui que votre moyenne.",
+  "more": "plus",
+  "less": "moins"
+}
